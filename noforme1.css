@@ -1,0 +1,26 @@
+body{
+    background: grey;
+}
+
+h1{
+    text-align: right;
+    color: darkred;
+}
+img{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:grey;
+}
+div{
+    background: limegreen;
+    border: 5px outset;
+    border-color: red;
+}
+.tab {
+    background-color: wheat;
+}
+table, th, td {
+    border:  1px solid black;
+    border-collapse: collapse;
+}
